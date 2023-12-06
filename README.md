@@ -6,9 +6,15 @@ Custom JWT token is an authentication method for any Deployed Formio Environment
 
 ## Use
 
+### Install
+
+`npm install`
+or
+`yarn install`
+
 Rename `.env.example` to `.env` and replace the value from the environment variables with your project information
 
-### Run Command 
+### Run 
 `node index.js`
 
 This command will generate a JWT token that you can use in a API request or set the token in your localstorage using `formiojs` in your browser.
