@@ -1,0 +1,7 @@
+# common files
+node_modules
+.git
+.idea
+.vscode
+*.log
+
